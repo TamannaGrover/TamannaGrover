@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/TamannaGrover/TamannaGrover/blob/main/Me.gif" alt="me" width="700" height="360">
+</p>
 
-<img src="https://github.com/TamannaGrover/TamannaGrover/blob/main/Me.gif" alt="me" width="600" height="360">
 
 
 # 💫 About Me:
